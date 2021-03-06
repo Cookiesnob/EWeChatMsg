@@ -58,7 +58,7 @@ class wxMsgCom:
         self._sendMessage(jData)
 
 
-    def sendTextCardMessage(self, touser, title, description, url="https://blog.shi1011.cn/", btntxt="更多"):
+    def sendTextCardMessage(self, touser, title, description, url="", btntxt="更多"):
         """
 
         :param touser:推送用户
