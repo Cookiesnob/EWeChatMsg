@@ -11,3 +11,4 @@
 - `sendMarkdownMessage`
 
 ## 许可?
+MIT
